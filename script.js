@@ -17,7 +17,7 @@ function Sum_of_numbers_within_an_array() {
    
 }
 
-//................Remove_duplicate_item_from_an_array.............//
+//................Removeduplicate_item_from_an_array.............//
 function Remove_duplicate_item_from_an_array()
 {
     var n = [];
