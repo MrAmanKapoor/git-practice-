@@ -46,7 +46,7 @@ body {
 .icon {
   padding: 10px;
   background: black;
-  color: white;
+  color: red;
   min-width: 30px;
   text-align: center;
   border-bottom-left-radius: 15px;
@@ -71,7 +71,7 @@ body {
 }
 
 .input-field:focus {
-  box-shadow: 2px 2px 10px 2px white;
+  box-shadow: 2px 2px 10px 2px black;
 }
 
 /* Set a style for the submit button */
