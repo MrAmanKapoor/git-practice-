@@ -35,7 +35,7 @@ document.write("New Array after removing duplicate item:- " + uniqueChars);
 }
 
 
-//.............factorial_of_a_Number..............//
+//.............Number..............//
 
 function factorial_of_a_Number(){
     var n= window. prompt("Find Factorial of a number, Enter Number");
